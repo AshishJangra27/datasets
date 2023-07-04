@@ -13,3 +13,6 @@ This repository is having the datasets used in different Data Analysis an Data S
 
 **Sherlock Holmes**
 
+**Airbnb**
+
+**Swiggy Restaurants** This dataset is having details of 150k restaurants listed on Swiggy including cuisine, locality, city, cost, etc. Check the full data including menu items with the link below. https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
