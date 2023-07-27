@@ -1,6 +1,7 @@
-This repository is having some essential datasets you can use in Data Science.
-
-**Data Analysis**
+# Datasets
+## This repository is having some essential datasets you can use in Data Science.
+-----
+### **Data Analysis**
 - Airbnb
 - Cricket Players
 - Gaana
@@ -9,21 +10,21 @@ This repository is having some essential datasets you can use in Data Science.
 - Myntra Products
 - OpenBook
 - Swiggy Restaurants
-
-**Machine Learning**
+-----
+### **Machine Learning**
 - Sherlock
 - Airbnb
 - IMDB Movies
 - Job Postings
-
-**Deep Learning**
+-----
+### **Deep Learning**
 - Airbnb
 - IMDB Movies
-  
-**Computer Vision**
+-----  
+### **Computer Vision**
 - IMDB Celeb
-
-**Natural Language Processing**
+-----
+### **Natural Language Processing**
 - Gaana
 - Sherlock
 - Hindi Corpus
@@ -32,6 +33,7 @@ This repository is having some essential datasets you can use in Data Science.
 - Job Postings
 - Myntra Products
 - OpenBook
+-----
 
 This repository is repeated frequently.
 
