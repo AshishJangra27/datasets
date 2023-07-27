@@ -1,5 +1,5 @@
-# Datasets
-## This repository is having some essential datasets you can use in Data Science.
+### About the Repository?
+#### This repository is having some essential datasets you can use in Data Science.
 -----
 ### **Data Analysis**
 - Airbnb
@@ -34,6 +34,9 @@
 - Myntra Products
 - OpenBook
 -----
+
+Regards,
+Ashish
 
 This repository is repeated frequently.
 
