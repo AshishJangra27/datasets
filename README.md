@@ -1,26 +1,39 @@
+This repository is having some essential datasets you can use in Data Science.
 
-Chapter 1 - Python for Data Science
- - Core Python (Data Types, Loops, Data Structures, DSA - List & Dictionaries)
- - Python Specifically for Data Science (Numpy, OS, File Handling, Terminal)
+**Data Analysis**
+- Airbnb
+- Cricket Players
+- Gaana
+- IMDB Movies
+- Job Postings
+- Myntra Products
+- OpenBook
+- Swiggy Restaurants
 
-   
-Chapter 2 - Data Analysis
- - Data Analysis with Python (Pandas, Matplotlib, Statistics, Probilities, EDA,  Data Preprocessing, Handling different Datasets, Seaborn, Plotly)
- - Data Analysis with R
- - MS Excel
- - SQL
- - Tableau / PowerBI
- - Web Scraping
+**Machine Learning**
+- Sherlock
+- Airbnb
+- IMDB Movies
+- Job Postings
 
-   
-Chapter 3 - Machine Learning (Calculus, Algebra, Classification based Algorithms, Regression-Based Algorithms)
+**Deep Learning**
+- Airbnb
+- IMDB Movies
+  
+**Computer Vision**
+- IMDB Celeb
 
-Chapter 4 - Deep Learning | Neural Network (ANN, Forward & Backward Propagation, Gradient Descent, Weight Optimisation, Working of Different Layers, Tensorflow, Pytorch, Karas)
-- Computer Vision (Working with Images & Videos, Fundamentals of Image Creation, Image Processing, OpenCV, Keras, Tensorflow, PyTorch, CNN)
-- NLP (LSTM, GRU, Word Embedding, Text Processing, FastText, Spacy NLTK)
+**Natural Language Processing**
+- Gaana
+- Sherlock
+- Hindi Corpus
+- Cooking Labels
+- IMDB Movies
+- Job Postings
+- Myntra Products
+- OpenBook
 
-Others
- - Deployment (Streamlit, Flask, FastAPI, Keras, Tensorflow, PyTorch)
- - Kaggle
- - Github
- - Google Calab
+This repository is repeated frequently.
+
+Regards,
+Ashish
