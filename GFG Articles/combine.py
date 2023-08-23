@@ -7,4 +7,4 @@ for csv in tqdm(csvs):
     df_ = pd.read_csv('data/' + csv )
     df = pd.concat((df,df_))
 
-df.to_csv('f.csv', index = False)
+df.to_csv('data.csv', index = False)
