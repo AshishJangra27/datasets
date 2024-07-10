@@ -1,8 +1,9 @@
 ### About the Repository?
-#### This repository is having some essential datasets you can use in Data Science.
+#### This repository has some essential datasets you can use in Data Science.
 -----
 ### **Data Analysis**
 - Airbnb
+- Sneaker Sales
 - Cricket Players
 - Gaana
 - IMDB Movies
