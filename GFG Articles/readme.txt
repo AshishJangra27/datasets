@@ -1,1 +1,0 @@
-Run combine.py to use combine the datasets. You'll get one single file (data.csv) containing all the data.
